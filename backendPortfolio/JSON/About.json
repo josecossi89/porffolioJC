@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Jose Cossi",
+    "profession": "Full Stack Developer",
+    "photo": "https://i.ibb.co/2hCRBVs/54723795.jpg",
+    "about_me": "Hola, Soy Jose Cossi. Ingeniero de Sistemas, con algunas habilidades en programacion,me gusta indagar y aprender sobre herramientas que ayuden a resolver diferentes problemas. Aprender, mejorar y ayudar son algunas de las cosas que me gusta hacer!! He trabajado con tecnologias como JavaScript, NodeJs y Express, las cuales me han ayudado a desarollar algunas aplicaciones. Actualmente me encuentro haciendo el Bootcamp para ser desarrollador FullStack de la academia Soy Henry.",
+    "skills": [
+      "Javascript",
+      "NodeJs",
+      "ReactJS",
+      "Angular",
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "MySQL",
+      "Sequilize",
+      "Express"
+    ]
+  }
+]

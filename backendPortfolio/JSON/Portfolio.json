@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Calculadora",
+    "description": "Proyecto realizado con las tres tecnologías esenciales de la web, HTML, CSS y JavaScript. Es un proyecto simple ¡Pero un buen comienzo para sentar las bases de la programación web!",
+    "image": "https://i.ibb.co/LNSzT05/project-1.png",
+    "repo": "https://github.com/josecossi89/calculator-js",
+    "link": "https://josecossi89.github.io/calculator-js/"
+  },
+  {
+    "name": "Rick And Morty Scroll",
+    "description": "Rick and Morty scroll es un mini proyecto hecho con HTML, CSS y JavaScript en el que se usa una api para renderizar la información de los personajes",
+    "image": "https://i.ibb.co/bBnDQmd/project-2.png",
+    "repo": "https://github.com/josecossi89/rickandmorty-scroll",
+    "link": "https://josecossi89.github.io/rickandmorty-scroll/"
+  },
+
+  {
+    "name": "Weather App",
+    "description": "La aplicación Climate es un mini proyecto en el que React se utiliza como tecnología principal, es un simple aplicación que utiliza una API, que muestra información detallada sobre determinadas zonas geográficas ...",
+    "image": "https://i.ibb.co/vPvDm25/project-3.png",
+    "repo": "https://github.com/josecossi89",
+    "link": "https://github.com/josecossi89"
+  },
+  {
+    "name": "Pokemon App",
+    "description": "La aplicación Pokémon es el proyecto individual asignado en el bootcamp Soy Henry, que usa HTML, CSS, JavaScript, Reaccionar, Redux en el frontend, además de Express, sequelize y postgreSQL para el backend.",
+    "image": "https://i.ibb.co/d4sFQWK/project-4.png",
+    "repo": "https://github.com/josecossi89",
+    "link": "https://github.com/josecossi89"
+  }
+]
